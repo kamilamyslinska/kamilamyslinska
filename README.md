@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamilamyslinska
 - 👀 I love Machine and Deep Learning
-- 🌱 In my spare time I create scripts for the education of Lodz youth
+- 🌱 In my spare time I create AI scripts for the education of Lodz youth
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me e-mail: kamilamyslinska@gmail.com
 
