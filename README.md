@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamilamyslinska
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning deep learning
+- 👀 I love Machine Learning
+- 🌱 I love Deep Learning
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me e-mail: kamilamyslinska@gmail.com
 
